@@ -280,7 +280,8 @@ export default function Navbar() {
                   href="#home"
                   onClick={() => setIsMenuOpen(false)}
                   className="
-                    text-4xl
+                    text-2xl
+                    md:text-4xl
                     font-medium
                     text-black
                     transition-all
@@ -298,7 +299,8 @@ export default function Navbar() {
                   href="#about"
                   onClick={() => setIsMenuOpen(false)}
                   className="
-                    text-4xl
+                    text-2xl
+                    md:text-4xl
                     font-medium
                     text-black
                     transition-all
@@ -316,7 +318,8 @@ export default function Navbar() {
                   href="#products"
                   onClick={() => setIsMenuOpen(false)}
                   className="
-                    text-4xl
+                    text-2xl
+                    md:text-4xl
                     font-medium
                     text-black
                     transition-all
@@ -334,7 +337,8 @@ export default function Navbar() {
                   href="#recipes"
                   onClick={() => setIsMenuOpen(false)}
                   className="
-                    text-4xl
+                    text-2xl
+                    md:text-4xl
                     font-medium
                     text-black
                     transition-all
@@ -352,7 +356,8 @@ export default function Navbar() {
                   href="#contact"
                   onClick={() => setIsMenuOpen(false)}
                   className="
-                    text-4xl
+                    text-2xl
+                    md:text-4xl
                     font-medium
                     text-black
                     transition-all

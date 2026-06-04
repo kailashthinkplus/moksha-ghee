@@ -168,7 +168,7 @@ export default function Footer() {
             >
               <li>
                 <a
-                  href="#"
+                  href="#home"
                   className="
                     text-[14px]
                     text-[#E3E3E3]
@@ -182,7 +182,7 @@ export default function Footer() {
 
               <li>
                 <a
-                  href="#"
+                  href="#about"
                   className="
                     text-[14px]
                     text-[#E3E3E3]
@@ -196,7 +196,7 @@ export default function Footer() {
 
               <li>
                 <a
-                  href="#"
+                  href="#contact"
                   className="
                     text-[14px]
                     text-[#E3E3E3]
@@ -287,10 +287,10 @@ export default function Footer() {
           <p
             className="
               text-[13px]
-              text-[#9B9B9B]
+              text-white
             "
           >
-            © Moksha Ghee 2026 | Powered by ShopEZ
+            © Moksha Ghee 2026 | Powered by <a className="text-[#9B1111]" target="_blank" href="https://www.getbuildez.com">ShopEZ</a>
           </p>
         </div>
       </div>
