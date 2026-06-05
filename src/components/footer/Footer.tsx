@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function Footer() {
   return (
-<footer
+<footer id="contact"
   className="
     relative
     overflow-hidden

@@ -155,7 +155,7 @@ export default function Navbar() {
             {/* RIGHT CTA */}
 
             <a
-              href="/shop"
+              href="#"
               className="
                 rounded-full
                 bg-[#E5AA00]
